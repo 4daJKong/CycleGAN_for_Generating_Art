@@ -9,6 +9,3 @@ Dream:
 
 ![image](https://user-images.githubusercontent.com/34623632/145953937-5ff831d4-bf16-4837-9c11-62854fd981f0.png)
 
-Reality:
-
-![image](https://user-images.githubusercontent.com/34623632/145954003-cfeaf41a-a03c-4b80-a407-a30941091f07.png)
