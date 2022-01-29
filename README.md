@@ -4,7 +4,7 @@ The Cycle-Consistent Adversarial Networks (CycleGAN) is proposed by Zhu J. Y., P
 transformation. This transformation can generate images non-existing before from an image to another unpaired image. We aimed to implement transformation from city images in Joensuu to Monet's style images.
 
 
-![Zongyue_Li_308839_cycleGAN for generating art Report](https://user-images.githubusercontent.com/34623632/151659015-9068ac6f-fbb1-4036-9579-cf037d509133.jpg)
+![cycleGAN ](https://user-images.githubusercontent.com/34623632/151659089-06808e5d-c484-4a45-9a05-de71d5c9c423.png)
 Cycle - GAN Structure
 
 
