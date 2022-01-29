@@ -5,7 +5,7 @@ transformation. This transformation can generate images non-existing before from
 
 
 ![cycleGAN ](https://user-images.githubusercontent.com/34623632/151659089-06808e5d-c484-4a45-9a05-de71d5c9c423.png)
-Cycle - GAN Structure
+<p align="center">Cycle - GAN Structure</p>
 
 
 
