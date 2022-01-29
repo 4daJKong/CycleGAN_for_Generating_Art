@@ -1,5 +1,4 @@
 # CycleGAN_for_Generating_Art
-Not organizing well yet;)
 
 Original Image:
 
@@ -9,3 +8,5 @@ Dream:
 
 ![image](https://user-images.githubusercontent.com/34623632/145953937-5ff831d4-bf16-4837-9c11-62854fd981f0.png)
 
+Our work:
+![16sets](https://user-images.githubusercontent.com/34623632/151654741-7d14840a-385b-4ee5-8ff3-a5fa618e4233.png)
