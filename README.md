@@ -18,17 +18,7 @@ Original image                        |  Monet artistic style:
 
 
 ## Citation:
-@inproceedings{CycleGAN2017,
-  title={Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks},
-  author={Zhu, Jun-Yan and Park, Taesung and Isola, Phillip and Efros, Alexei A},
-  booktitle={Computer Vision (ICCV), 2017 IEEE International Conference on},
-  year={2017}
-}
+Zhu, Jun-Yan, et al. "Unpaired image-to-image translation using cycle-consistent adversarial networks." **Proceedings of the IEEE international conference on computer vision.** 2017.
 
 
-@inproceedings{isola2017image,
-  title={Image-to-Image Translation with Conditional Adversarial Networks},
-  author={Isola, Phillip and Zhu, Jun-Yan and Zhou, Tinghui and Efros, Alexei A},
-  booktitle={Computer Vision and Pattern Recognition (CVPR), 2017 IEEE Conference on},
-  year={2017}
-}
+Isola, Phillip, et al. "Image-to-image translation with conditional adversarial networks." **Proceedings of the IEEE conference on computer vision and pattern recognition.** 2017.
